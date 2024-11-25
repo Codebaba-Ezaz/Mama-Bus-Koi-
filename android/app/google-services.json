@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504983584526",
+    "project_id": "mama-bus-koi-4535e",
+    "storage_bucket": "mama-bus-koi-4535e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504983584526:android:5adc9200a8ad7452f7615f",
+        "android_client_info": {
+          "package_name": "com.Codebaba.Ezaz.mama_bus_koi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfPl_tUmjcOjzScoEESCMJZdBrL01ZpQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
