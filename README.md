@@ -1,16 +1,32 @@
-# mama_bus_koi
+🚌 Mama Bus Koi
+A real-time bus tracking and schedule management app designed for IIUC. Built with Flutter, this app streamlines bus schedules and tracking for students and admins.
 
-An App For IIUC Bus Management System
+🌟 Features
+🚍 For Students
+Live Bus Tracking: Locate your bus in real time.
+Schedules At a Glance: View detailed schedules for all IIUC buses.
+🔑 For Admins
+Manage Bus Details: Add, update, and delete bus info, including routes, drivers, and schedules.
+Expandable Lists: See all buses in a clean, organized format.
+📍 Tech Highlights
+GPS Integration: Simulated with a secondary phone for real-time location tracking.
+Expandable UI: Displays bus details neatly for better user experience.
+Flutter: Cross-platform compatibility with sleek UI components.
 
-## Getting Started
+🎨 Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+🛠️ Tech Stack
+Frontend: Flutter, Dart
+Backend: Firebase / Custom APIs (if applicable)
+Database: SQLite for local storage
+📋 Upcoming Features
+🔔 Push Notifications for schedule updates
+🌐 Cloud-based Admin Panel
+🗺️ Enhanced Map View with optimized routes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💬 Contact
+For queries or suggestions:
+👨‍💻 Developer: Ezaz Ahmed
+📧 Email: ezazahmed2002@gmail.com
+🌐 GitHub: Codebaba-Ezaz
