@@ -41,44 +41,44 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCWs-MKB7ncrsRMCy0Sb9pQ_Pu-IgzuYT0',
-    appId: '1:504983584526:web:42e24550be2383dbf7615f',
-    messagingSenderId: '504983584526',
+    apiKey: 'Your Api Key . I have removed mine as it is a secret code',
+    appId: 'Your Api Id . I have removed mine as it is a secret code',
+    messagingSenderId: 'Your given sender ID . I have removed mine as it is a secret id',
     projectId: 'mama-bus-koi-4535e',
     authDomain: 'mama-bus-koi-4535e.firebaseapp.com',
     storageBucket: 'mama-bus-koi-4535e.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfPl_tUmjcOjzScoEESCMJZdBrL01ZpQQ',
+    apiKey: 'Your Api Id . I have removed mine as it is a secret code',
     appId: '1:504983584526:android:5adc9200a8ad7452f7615f',
-    messagingSenderId: '504983584526',
+    messagingSenderId: 'Your given sender ID . I have removed mine as it is a secret id',
     projectId: 'mama-bus-koi-4535e',
     storageBucket: 'mama-bus-koi-4535e.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCLm5KpRjR6K0UsWdmhNn-Rx7Att2cco1g',
-    appId: '1:504983584526:ios:59177ea4c425f41ef7615f',
-    messagingSenderId: '504983584526',
+    apiKey: 'Your Api Key . I have removed mine as it is a secret code',
+    appId: 'Your Api Id . I have removed mine as it is a secret code',
+    messagingSenderId: 'Your given sender ID . I have removed mine as it is a secret id',
     projectId: 'mama-bus-koi-4535e',
     storageBucket: 'mama-bus-koi-4535e.firebasestorage.app',
     iosBundleId: 'com.Codebaba.Ezaz.mamaBusKoi',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCLm5KpRjR6K0UsWdmhNn-Rx7Att2cco1g',
-    appId: '1:504983584526:ios:59177ea4c425f41ef7615f',
-    messagingSenderId: '504983584526',
+    apiKey: 'Your Api Key . I have removed mine as it is a secret code',
+    appId: 'Your Api Id . I have removed mine as it is a secret code',
+    messagingSenderId: 'Your given sender ID . I have removed mine as it is a secret id',
     projectId: 'mama-bus-koi-4535e',
     storageBucket: 'mama-bus-koi-4535e.firebasestorage.app',
     iosBundleId: 'com.Codebaba.Ezaz.mamaBusKoi',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCWs-MKB7ncrsRMCy0Sb9pQ_Pu-IgzuYT0',
-    appId: '1:504983584526:web:a6fedae00104515af7615f',
-    messagingSenderId: '504983584526',
+    apiKey: 'Your Api Key . I have removed mine as it is a secret code',
+    appId: 'Your Api Id . I have removed mine as it is a secret code',
+    messagingSenderId: 'Your given sender ID . I have removed mine as it is a secret id',
     projectId: 'mama-bus-koi-4535e',
     authDomain: 'mama-bus-koi-4535e.firebaseapp.com',
     storageBucket: 'mama-bus-koi-4535e.firebasestorage.app',
