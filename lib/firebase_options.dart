@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'Your Api Id . I have removed mine as it is a secret code',
-    appId: '1:504983584526:android:5adc9200a8ad7452f7615f',
+    appId: 'Your Api Id . I have removed mine as it is a secret code',
     messagingSenderId: 'Your given sender ID . I have removed mine as it is a secret id',
     projectId: 'mama-bus-koi-4535e',
     storageBucket: 'mama-bus-koi-4535e.firebasestorage.app',
