@@ -1,0 +1,29 @@
+{
+  "project info": {
+    "project number": "YOUR PROJECT NUMBER. I have removed mine as it is a secret code.",
+    "project id": "YOUR PROJECT ID. I have removed mine as it is a secret code.",
+    "storage bucket": "YOUR STORAGE BUCKET. I have removed mine as it is a secret code."
+  },
+  "client": [
+    {
+      "client info": {
+        "mobilesdk app id": "YOUR MOBILE SDK APP ID. I have removed mine as it is a secret code.",
+        "android client info": {
+          "package name": "YOUR PACKAGE NAME. I have removed mine as it is a secret code."
+        }
+      },
+      "oauth client": [],
+      "api key": [
+        {
+          "current key": "YOUR API KEY. I have removed mine as it is a secret code."
+        }
+      ],
+      "services": {
+        "appinvite service": {
+          "other platform oauth client": []
+        }
+      }
+    }
+  ],
+  "configuration version": "1"
+}
